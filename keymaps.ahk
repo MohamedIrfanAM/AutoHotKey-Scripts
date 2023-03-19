@@ -54,7 +54,7 @@
 
 #+Enter::
 {
-	Run "edge.exe"
+	Run "msedge.exe"
 }
 
 #^+Enter::
